@@ -1,8 +1,20 @@
-## Hi, I am Krishiv 💫
+# 👋 Hey there! I'm Krishiv Goyal
 
-🧠 Computer Engineering Student <br/>
-💻 I create web applications <br/>
-🛜 I am also a network hacker <br/>
+### 💻 Computer Engineering Student | 🌐 Web App Developer | 🛡️ Network Security Enthusiast
+
+---
+
+## 🧠 About Me
+
+A **highly motivated Software Engineer** passionate about building scalable software and solving real-world problems with code.
+
+🚀 I bring a mix of:
+- 🧩 Strong problem-solving skills  
+- 🛠️ Hands-on coding and debugging experience  
+- 🧑‍🤝‍🧑 Teamwork and leadership in college projects  
+- ⏱️ Time management and critical thinking  
+- 📚 Solid understanding of algorithms, data structures & DBMS  
+- 🕵️‍♂️ A curious learner diving into **network hacking & cybersecurity**
 
 
 # 💻 Tech Stack:
