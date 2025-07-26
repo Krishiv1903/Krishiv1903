@@ -13,7 +13,7 @@ A **highly motivated Software Engineer** passionate about building scalable soft
 - 🛠️ Hands-on coding and debugging experience  
 - 🧑‍🤝‍🧑 Teamwork and leadership in college projects  
 - ⏱️ Time management and critical thinking  
-- 📚 Solid understanding of algorithms, data structures & DBMS  
+- 📚 Solid understanding of algorithms, data structures and database management
 - 🕵️‍♂️ A curious learner diving into **network hacking & cybersecurity**
 
 
