@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Krishiv Goyal
 
-### 💻 Computer Engineering Student | 🌐 Web App Developer | 🛡️ Network Security Enthusiast
+### 💻 Computer Engineering Student | 🌐 Web App Developer
 
 ---
 
